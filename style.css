@@ -1,0 +1,40 @@
+/* CSS Document */
+
+body {
+	background: #E7CDCE
+}
+
+#header {
+	background-color: red;
+	
+	width: auto;
+	height: auto;
+	margin: auto;
+	padding-top: 
+	
+}
+
+#name {
+	text-align: center;
+	color: #EBDFDF
+}
+
+#league {
+	color: white;
+}
+#sidebar {
+	width: 400px;
+	height: 380px;
+	float: right;
+	
+}
+
+#word {
+	
+	align-content: center;
+	color: green;
+}
+
+#footer {
+	position: sticky
+}
